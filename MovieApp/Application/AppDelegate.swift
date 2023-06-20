@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  MovieApp
-//
-//  Created by Куат Оралбеков on 18.06.2023.
-//
-
 import UIKit
 
 @main
